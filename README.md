@@ -13,6 +13,8 @@ The project is divided into three main sub-folders:
 ## Live Deployment
 
 The application is deployed and live at: [zaayka.onrender.com](https://zaayka.onrender.com)
+                                         [server-zaayka.onrender.com](https://server-zaayka.onrender.com/)
+                                         [zaayka-admin.vercel.app](zaayka-admin.vercel.app)
 
 ## Getting Started
 
